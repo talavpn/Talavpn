@@ -1,0 +1,156 @@
+Privacy Policy
+
+Tala VPN (package name: com.talaavpn.application)
+Effective date: November 18, 2026
+
+This Privacy Policy explains what information Tala VPN ("the app", "we", "us") collects, how it is used, and the choices you have. By using the app, you acknowledge the data practices described in this policy.
+
+1. Information We Collect
+
+1.1 Information collected automatically
+
+To operate the VPN service, maintain security, improve performance, and display advertisements, the app collects:
+
+- Device and app identifiers: A random installation identifier created by the app, the Android ID, the advertising ID (used by Google AdMob), and an identifier of the app build.
+- Device information: Device model, Android version, app version, and the language setting of the app.
+- Network information: Your IP address. We keep a history of the IP addresses and countries your installation connected from, limited to the most recent 100 entries.
+- Approximate location: The country (and where available, the city) derived from your IP address. The app does not request device location permission and does not collect precise (GPS) location.
+- App activity: When the app was installed and last opened, how many times it has been opened, and in-app interactions and usage events.
+- App information and performance: Crash reports, diagnostics, and reports of servers that failed to connect or load an advertisement.
+- Referral information: The referral code assigned to your installation and, if you use a referral code, the installation that referred you.
+- Push notification token: Used to deliver notifications from us.
+
+1.2 Information you choose to send us
+
+If you contact us by email, we receive your email address and the content of your message.
+
+1.3 Information we do not collect
+
+- We do not collect your name, phone number, contacts, photos, files, or messages.
+- We do not collect precise (GPS) location.
+- The app does not record, inspect, store, or sell the websites you visit or the content of the traffic that passes through the VPN connection.
+- We do not receive or store your payment card or bank details.
+
+2. How We Use Information
+
+We use the information described above to:
+
+- Provide, operate, and maintain the VPN service.
+- Verify that requests come from a genuine copy of the app and prevent abuse and fraud.
+- Operate and manage the referral program.
+- Display advertisements to support the free VPN service.
+- Send notifications about the service, important announcements, and app updates.
+- Diagnose crashes, resolve technical problems, and improve the app's performance and features.
+- Comply with applicable legal obligations and Google Play policies.
+
+3. VPN Service
+
+Tala VPN uses Android's VpnService to establish a VPN connection on your device. This is the app's primary function: routing your device's internet traffic through our VPN servers to provide an encrypted connection and change your apparent public IP address and location.
+
+- The app does not use the VPN connection to collect personal or sensitive information, track your browsing activities, or inject, redirect, or manipulate advertisements or other traffic.
+- The app's own traffic, including advertising requests and communication with our servers, may also pass through the VPN connection while it is active, depending on the app's network configuration.
+- The app requests your permission through Android's system VPN permission dialog before establishing a VPN connection.
+- The VPN connection can be started and stopped by the user through the app's interface.
+
+4. Third-Party Services
+
+Tala VPN uses the following third-party services, which may collect and process information according to their own privacy policies:
+
+- Google Play services, including In-App Updates and In-App Review:
+  https://policies.google.com/privacy
+
+- Google AdMob (advertising):
+  https://policies.google.com/technologies/ads
+
+- Firebase Analytics, Firebase Crashlytics, and Firebase Cloud Messaging:
+  https://firebase.google.com/support/privacy
+
+These services may process device identifiers, app usage data, diagnostics, and other information necessary to provide their respective functions.
+
+5. Advertising
+
+Tala VPN is a free, advertisement-supported VPN application. Advertisements are provided through Google AdMob and help support the operation and maintenance of the service.
+
+Google AdMob may use your advertising ID, device information, approximate location, and other permitted information to display personalized or contextual advertisements and measure advertising performance.
+
+You can manage or delete your advertising ID and adjust advertising privacy preferences through your Android device settings, usually under Settings > Google > All services > Ads or Settings > Privacy > Ads, depending on your device and Android version.
+
+Where required by applicable law, we or our advertising partners request consent before using personal information for personalized advertising.
+
+Advertising preferences may affect the types of advertisements displayed but do not necessarily remove advertisements from the app.
+
+6. Data Sharing and International Transfers
+
+We do not sell your personal information.
+
+We share information only in the following circumstances:
+
+- With the third-party service providers listed in section 4, to support advertising, analytics, crash reporting, notifications, and other app functionality.
+- When required by applicable law, legal process, or governmental authority.
+- When reasonably necessary to protect the rights, safety, and security of our users, our service, and others.
+
+Our servers and those of our service providers may be located in different countries. Your information may therefore be processed or stored outside your country of residence.
+
+Where applicable law requires safeguards for international data transfers, we take appropriate measures to protect the transferred information.
+
+7. Data Retention
+
+We retain information only as long as necessary for the purposes described in this Privacy Policy, subject to applicable legal obligations.
+
+- Installation, device, and activity records: Retained while the app is in use and for as long as reasonably necessary for service operation, security, diagnostics, and other stated purposes.
+- IP address history: Limited to the most recent 100 entries per installation. Older entries are removed automatically.
+- Crash reports, analytics, and advertising data: Retained by the respective third-party service providers according to their own data retention policies.
+- Support communications: Retained for as long as reasonably necessary to respond to requests and maintain support records.
+
+8. Your Choices and Rights
+
+You have several options to control your information:
+
+- Uninstalling the app: You can uninstall Tala VPN at any time. This removes app data stored locally on your device, subject to Android's data management behavior. Uninstalling does not automatically delete information already stored on our servers.
+- Access and deletion requests: You may request access to or deletion of the information we hold about your installation by contacting us using the email address provided below.
+- Advertising preferences: You may manage your advertising ID and advertising personalization preferences through your device settings and any consent options provided by the app.
+- Notifications: You can allow or disable notifications through your device's app settings.
+
+Depending on your location, you may have additional privacy rights under applicable laws, including the General Data Protection Regulation (GDPR) or the California Consumer Privacy Act (CCPA/CPRA).
+
+To exercise your applicable privacy rights, contact us at talavpn.application@gmail.com.
+
+9. Data Security
+
+We use reasonable technical and organizational safeguards designed to protect information against unauthorized access, loss, misuse, alteration, or disclosure.
+
+Communication between the app and our servers is encrypted, and access to our databases is restricted to authorized systems and personnel.
+
+However, no method of internet transmission or electronic data storage is completely secure. We cannot guarantee absolute security.
+
+10. Children's Privacy
+
+Tala VPN is not directed to children under the age of 13.
+
+We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13 without appropriate authorization, we will take steps to delete that information.
+
+If you are a parent or guardian and believe a child has provided us with personal information, please contact us using the email address below.
+
+11. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically to reflect changes in our services, data practices, legal requirements, or third-party integrations.
+
+Any updates will be published at the location where this Privacy Policy is made available, with a revised effective date.
+
+Where required by applicable law, we will provide additional notice or request consent for material changes.
+
+We encourage users to review this Privacy Policy periodically.
+
+12. Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or how Tala VPN handles your information, please contact us at:
+
+App Name: Tala VPN
+Package Name: com.talaavpn.application
+Email: talavpn.application@gmail.com
+
+Additional Information for Android Users
+
+Tala VPN is designed to comply with applicable Google Play Developer Program Policies, including requirements relating to Android's VpnService, user data, privacy, and advertising.
+
+The VPN functionality is intended solely to provide a user-requested virtual private network service.
